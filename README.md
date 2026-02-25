@@ -36,7 +36,7 @@ U3RlZ2hpZGVfQnVzdWtfMjczVA==
 
 -- S --
 ```
-
+![alt text](S.jpg)
 Hingga berita ini diturunkan, pihak Bank Steghide menolak memberikan komentar 
 lebih lanjut dan menyatakan bahwa seluruh aset nasabah "masih dalam pengawasan". 
 
