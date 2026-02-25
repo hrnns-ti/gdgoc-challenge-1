@@ -11,6 +11,8 @@ Ia justru melakukan 'defacement' pada situs resmi bank selama 15 menit untuk
 mengirimkan sebuah file foto dan pernyataan ke berbagai redaksi media massa nasional sebagai "hadiah" untuk masyarakat. sebelum akhirnya tim IT bank mematikan paksa 
 seluruh jaringan.
 
+---
+
 ```
 "Lucu melihat kalian panik berlarian di koridor gedung megah itu sambil memegang 
 senter, padahal kalian sendiri yang mematikan lampunya sejak awal."
@@ -37,6 +39,9 @@ U3RlZ2hpZGVfQnVzdWtfMjczVA==
 -- S --
 ```
 ![alt text](S.jpg)
+
+---
+
 Hingga berita ini diturunkan, pihak Bank Steghide menolak memberikan komentar 
 lebih lanjut dan menyatakan bahwa seluruh aset nasabah "masih dalam pengawasan". 
 
@@ -48,3 +53,7 @@ saat ini tidak bisa dilacak oleh otoritas manapun.
 Otoritas melarang masyarakat untuk mencoba membongkar file tersebut karena alasan keamanan 
 namun file tersebut kini telah viral dan diunduh oleh jutaan orang di seluruh 
 jaringan gelap.
+
+---
+
+Notes: Pastikan download gambar dari github, bukan save images browser...
