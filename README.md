@@ -1,6 +1,6 @@
 ## LAPORAN INSIDEN SIBER: "BLACK OUT" BANK STEGHIDE
 ##### STATUS: INVESTIGASI KRIMINAL - LEVEL PRIORITAS TINGGI
-##### TANGGAL: 25 FEBRUARI 2026
+##### TANGGAL: 25 FEBRUARI 2030
 
 
 JAKARTA — Otoritas siber nasional masih melakukan pelacakan pasca lumpuhnya 
@@ -30,6 +30,7 @@ Siapa pun yang pertama kali berhasil, lo pegang kendali.
 Ambil semuanya, bagiin ke orang susah, atau buat hura-hura terserah lo.
 Yang penting elit Steghide nangis darah malam ini!
 
+U3RlZ2hpZGVfQnVzdWtfMjczVA==
 
 "Dan buat para elit... RASAIN!!!
 
