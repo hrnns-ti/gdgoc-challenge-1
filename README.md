@@ -1,6 +1,6 @@
 ## LAPORAN INSIDEN SIBER: "BLACK OUT" BANK STEGHIDE
 ##### STATUS: INVESTIGASI KRIMINAL - LEVEL PRIORITAS TINGGI
-##### TANGGAL: 25 FEBRUARI 2030
+##### TANGGAL: 25 MARET 2030
 
 
 JAKARTA — Otoritas siber nasional masih melakukan pelacakan pasca lumpuhnya 
@@ -56,4 +56,43 @@ jaringan gelap.
 
 ---
 
-Notes: Pastikan download gambar dari github, bukan save images browser...
+
+<br>
+<br>
+<br>
+
+## Aturan & Petunjuk Penting
+
+- **WAJIB** gunakan file asli dari repo ini.  
+- Jangan “Save Image As…” dari browser
+
+### Cara download yang aman
+**Opsi 1 (disarankan):**
+```bash
+git clone https://github.com/hrnns-ti/gdgoc-challenge-1.git
+```
+
+**Opsi 2**
+Buka file [S.jpg](Gambar) di repo lalu klik Download raw file.
+
+
+<br>
+<br>
+<br>
+
+## Hint (klik untuk buka)
+
+<details>
+  <summary>Hint 1</summary>
+  Coba cek properties gambarnya
+</details>
+<br>
+<details>
+  <summary>Hint 2</summary>
+  Nama Bank bukan sekadar karangan
+</details>
+<br>
+<details>
+  <summary>Hint 3</summary>
+  Semua bagian cerita tak ada yang sia sia
+</details>
