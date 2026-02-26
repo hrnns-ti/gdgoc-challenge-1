@@ -73,7 +73,7 @@ git clone https://github.com/hrnns-ti/gdgoc-challenge-1.git
 ```
 
 **Opsi 2**
-Buka file [S.jpg](Gambar) di repo lalu klik Download raw file.
+Buka file [GAMBAR](S.jpg) di repo lalu klik Download raw file.
 
 
 <br>
