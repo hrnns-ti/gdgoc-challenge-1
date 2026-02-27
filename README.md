@@ -59,6 +59,10 @@ jaringan gelap.
 
 <br>
 <br>
+
+## Objektif
+- Telusuri gambar yang diberikan tersangka S dan temukan 12 kombinasi kata dan data dalang dibalik kejahatan Bank Steghide
+
 <br>
 
 ## Aturan & Petunjuk Penting
